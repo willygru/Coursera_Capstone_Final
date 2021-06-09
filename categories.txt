@@ -1,0 +1,101 @@
+DEPURATED:
+
+Doctor's Office: 4bf58dd8d48988d177941735
+
+Emergency Room: 4bf58dd8d48988d194941735
+
+Eye Doctor:  522e32fae4b09b556e370f19
+
+Hospital: 4bf58dd8d48988d196941735
+
+Maternity Clinic: 56aa371be4b08b9a8d5734ff
+
+Rehab Center: 56aa371be4b08b9a8d57351d
+
+Urgent Care Center: 56aa371be4b08b9a8d573526
+
+
+4bf58dd8d48988d177941735,
+4bf58dd8d48988d194941735,
+522e32fae4b09b556e370f19,
+4bf58dd8d48988d196941735,
+56aa371be4b08b9a8d5734ff,
+56aa371be4b08b9a8d57351d,
+56aa371be4b08b9a8d573526,
+
+
+COMPLETE LIST:
+
+Medical Center: 4bf58dd8d48988d104941735 #root
+
+
+Acupuncturist: 52e81612bcbc57f1066b7a3b
+
+Alternative Healer: 52e81612bcbc57f1066b7a3c
+
+Chiropractor: 52e81612bcbc57f1066b7a3a
+
+Dentist's Office: 4bf58dd8d48988d178941735
+
+Doctor's Office: 4bf58dd8d48988d177941735
+
+Emergency Room: 4bf58dd8d48988d194941735
+
+Eye Doctor:  522e32fae4b09b556e370f19
+
+Hospital: 4bf58dd8d48988d196941735
+
+    Hospital Ward: 58daa1558bbb0b01f18ec1f7
+
+Maternity Clinic: 56aa371be4b08b9a8d5734ff
+
+Medical Lab: 4f4531b14b9074f6e4fb0103
+
+Mental Health Office: 52e81612bcbc57f1066b7a39
+
+Nutritionist: 58daa1558bbb0b01f18ec1d0
+
+Physical Therapist: 5744ccdfe4b0c0459246b4af
+
+Rehab Center: 56aa371be4b08b9a8d57351d
+
+Urgent Care Center: 56aa371be4b08b9a8d573526
+
+Veterinarian: 4d954af4a243a5684765b473
+
+
+FOR STAKEHOLDER:
+
+Medical Center (categoría general) #root
+
+Acupuncturist (subcategoría)
+
+Alternative Healer (subcategoría)
+
+Chiropractor (subcategoría)
+
+Dentist's Office (subcategoría)
+
+Doctor's Office: (subcategoría)
+
+Emergency Room: (subcategoría)
+
+Eye Doctor: (subcategoría)
+
+Hospital: (subcategoría)
+
+Maternity Clinic (subcategoría)
+
+Medical Lab (subcategoría)
+
+Mental Health (subcategoría)
+
+Nutritionist (subcategoría)
+
+Physical Therapist (subcategoría)
+
+Rehab Center (subcategoría)
+
+Urgent Care Center (subcategoría)
+
+Veterinarian (subcategoría)
